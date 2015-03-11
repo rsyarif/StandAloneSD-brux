@@ -1,0 +1,16 @@
+R                               1.2
+Rsmall				0.15
+lambda_mu_ext			1.0
+lambda_theta_ext		1.0
+fractionISR_of_hardInt_PT	0.5
+noISR				0
+topmass				172.00
+topwindow			50.0
+wmass				80.403
+wwindow				20.0
+Higgsmass			125.0
+delta_Higgsmass			10.0
+br_wqq				0.666666666666
+useBtag				1
+tagprob				0.7
+fakeprob			0.01
